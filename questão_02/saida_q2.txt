@@ -1,0 +1,14 @@
+
+Ano -  Estado - Cidade - Vlr Agr - Vlr Ind - Vlr Serv - Vlr Adm - Impostos 
+2010 - Amazonas - Manaus - 148223- 19604595 - 15828206 - 4495022 - 10092774
+2011 - Amazonas - Manaus - 194860- 21832008 - 17295504 - 5051107 - 11155161
+2012 - Amazonas - Manaus - 184903- 18721451 - 18841764 - 5653894 - 12149826
+2013 - Amazonas - Manaus - 222279- 21035848 - 22396305 - 6421492 - 13753940
+2014 - Amazonas - Manaus - 203775- 21651475 - 24095703 - 7235051 - 14232890
+2015 - Amazonas - Manaus - 204571- 21761033 - 24329773 - 7523370 - 13258158
+2016 - Amazonas - Manaus - 207377- 25171086 - 24560215 - 7889975 - 12405653
+2017 - Amazonas - Manaus - 218517- 24636761 - 26106655 - 8336750 - 13926766
+2018 - Amazonas - Manaus - 209000- 26426370 - 27665796 - 8928806 - 14962349
+
+ A soma do PIB Bruto da cidade de Manaus  no período que abrange o dataset é: R$581227037.00
+ A média do PIB Bruto da cidade de Manaus  no período que abrange o dataset é: R$64580781.89
